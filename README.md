@@ -1,0 +1,1 @@
+# Advanced-Chinese-Rap-Lyric-Generation-with-Integrated-Markov-Chain-and-LSTM-Models
